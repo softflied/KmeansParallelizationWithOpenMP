@@ -1,0 +1,3 @@
+C:/Users/eyup/CLionProjects/kmeansproje/cmake-build-debug/CMakeFiles/kmeansproje.dir
+C:/Users/eyup/CLionProjects/kmeansproje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eyup/CLionProjects/kmeansproje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
